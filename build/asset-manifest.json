@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yuvapathi2306/header.git/static/css/main.988be92f.css",
+    "main.js": "/yuvapathi2306/header.git/static/js/main.fe06e5bf.js",
+    "static/js/787.69859e86.chunk.js": "/yuvapathi2306/header.git/static/js/787.69859e86.chunk.js",
+    "index.html": "/yuvapathi2306/header.git/index.html",
+    "main.988be92f.css.map": "/yuvapathi2306/header.git/static/css/main.988be92f.css.map",
+    "main.fe06e5bf.js.map": "/yuvapathi2306/header.git/static/js/main.fe06e5bf.js.map",
+    "787.69859e86.chunk.js.map": "/yuvapathi2306/header.git/static/js/787.69859e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988be92f.css",
+    "static/js/main.fe06e5bf.js"
+  ]
+}
